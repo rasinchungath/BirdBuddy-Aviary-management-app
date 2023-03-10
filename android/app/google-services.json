@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480264952582",
+    "project_id": "birdbuddy-417d0",
+    "storage_bucket": "birdbuddy-417d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480264952582:android:11d227d63698becf839c87",
+        "android_client_info": {
+          "package_name": "com.example.bird_buddy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480264952582-fj6accqbf4fkmj4ga3i59dbipmvvqapp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bird_buddy_app",
+            "certificate_hash": "8cd8a1bfe35c302e1fdbab194a5f9a26e577f9d4"
+          }
+        },
+        {
+          "client_id": "480264952582-nnu1la99vcfp4otd1cpetp1cngc1r3no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARXiZDi4dV0ynfu0s4b85HRy4CFqjvpIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480264952582-nnu1la99vcfp4otd1cpetp1cngc1r3no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
